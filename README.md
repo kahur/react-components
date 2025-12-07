@@ -18,4 +18,4 @@ To start the project locally, follow these steps:
 
 ## Component Documentation
 
-- [Amount Component](./src/Amount/README.md).
+- [Amount Component](./src/components/Amount/README.md).
