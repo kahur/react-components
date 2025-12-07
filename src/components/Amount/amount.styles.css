@@ -1,0 +1,11 @@
+/** example of styling components inside of the library */
+.invoice-amount {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.invoice-amount .invoice-amount-cell {
+    display: flex;
+    flex-direction: column;
+}

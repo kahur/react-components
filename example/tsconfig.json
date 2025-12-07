@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "../dist-demo", // Output directory for the demo build
+    "jsx": "react-jsx"
+  },
+  "include": ["./**/*"],
+  "exclude": ["../node_modules", "../dist", "../src"]
+}
